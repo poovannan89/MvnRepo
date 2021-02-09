@@ -7,9 +7,6 @@
   <version>1.0-SNAPSHOT</version>
   <name>MvnRepo</name>
   <url>http://maven.apache.org</url>
-   <configuration>
-   <failOnMissingWebXml>false</failOnMissingWebXml>
-    </configuration>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
